@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karol</h1>
 <h3 align="center">Graduate from Technical University of Denmark in Autonomous Systems, specialising in Machine Learning & AI applications in computer vision.</h3>
 
-- 🔭 I’m currently working on implementing YOLOv3 object detection algorithm from scratch using PyTorch and Lightning**
+- 🔭 I’m currently working on implementing YOLOv3 object detection algorithm from scratch using PyTorch and Lightning
 - 🌱 I’m currently learning **MLOps**
   
 <h3 align="left">Connect with me:</h3>
