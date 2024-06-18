@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karol</h1>
-<h3 align="center">Graduate from Technical University of Denmark in Autonomous Systems, specialising in Machine Learning & AI applications in computer vision.</h3>
+<h3 align="center">Graduate from Technical University of Denmark in Autonomous Systems. Currently working as a Data Scientist. Passionate about everything Machine Learning & AI related.</h3>
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
