@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karol</h1>
 <h3 align="center">Graduate from Technical University of Denmark in Autonomous Systems, specialising in Machine Learning & AI applications in computer vision.</h3>
-
-- 🔭 I’m currently working on a car image background removal app based on semantic segmentation using Pytorch , OpenCV an Streamlit
-- 🌱 I’m currently learning **MOJO**:fire: programming language
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
